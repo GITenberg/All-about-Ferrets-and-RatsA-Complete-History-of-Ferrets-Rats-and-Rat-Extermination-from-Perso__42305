@@ -1,0 +1,28 @@
+_repo: All-about-Ferrets-and-RatsA-Complete-History-of-Ferrets-Rats-and-Rat-Extermination-from-Perso__42305
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42305-h/images/i_back_cover.jpg
+creator:
+  author:
+    agent_name: Isaacsen, Adolph
+    gutenberg_agent_id: '41625'
+    url: http://www.gutenberg.org/2009/agents/41625
+description: ''
+gutenberg_issued: '2013-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42305'
+  lccn: '12031221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Ferret'
+- !lcsh 'Rats'
+title: "All about Ferrets and Rats\r\nA Complete History of Ferrets, Rats, and Rat\
+  \ Extermination from Personal Experiences and Study. Also a Practical Hand-Book\
+  \ on the Ferret."
+url: http://www.gutenberg.org/ebooks/42305
